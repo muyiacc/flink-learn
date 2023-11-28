@@ -1,0 +1,9 @@
+hello world
+hello flink
+hello spark
+hello hive
+hello hadoop
+hello flume
+hello datax
+hello kafka
+hello hello
